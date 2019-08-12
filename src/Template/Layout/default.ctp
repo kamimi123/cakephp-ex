@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Welcome PSG to OpenShift</title>
+  <title>Welcome Namoul </title>
 
 
 <style>
@@ -210,7 +210,7 @@ pre {
 <section class='container'>
 
         <hgroup>
-           <h1>Welcome kamimi PSG to your CakePHP application on OpenShift</h1>
+           <h1>Welcome Namoul Semha</h1>
         </hgroup>
 
         <?= $this->fetch('content') ?>
